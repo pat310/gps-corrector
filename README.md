@@ -7,7 +7,7 @@
 3. Repeat step 2 as necessary to correct any anomalous points
 4. Click download to get corrected data file.
 
-![tutorial](https://user-images.githubusercontent.com/12212504/51810992-ef6f9d00-2278-11e9-918b-1dae1c66046b.gif)
+![ezgif com-optimize](https://user-images.githubusercontent.com/12212504/51811218-f4811c00-2279-11e9-9b1b-cdc13667e528.gif)
 
 
 ## How do I report a bug or request a new feature?
